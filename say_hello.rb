@@ -1,1 +1,5 @@
-puts say_hello ("Gabriela")
+def say_hello(phrase)
+puts "Hello #{phrase}!"
+end
+
+
