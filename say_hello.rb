@@ -1,5 +1,3 @@
-def say_hello(phrase)
-puts "Hello #{phrase}!"
+def say_hello(name)
+  puts "Hello {name}!"
 end
-say_hello("Gabriela")
-say_hello (" ")
